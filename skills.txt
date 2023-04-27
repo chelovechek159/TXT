@@ -1,0 +1,7 @@
+Skills:
+1.Terminal
+2.GIT
+3.SQL
+4.Postman
+5.Client-server architecture
+6.Mobile testing
