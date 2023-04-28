@@ -32,8 +32,7 @@ or
     git add new.xml
     git commit -m "text"
     git push
-result
->https://github.com/chelovechek159/TXT/blob/main/new.txt
+>[result](https://github.com/chelovechek159/TXT/blob/main/new.txt)
 ### 9. Create file preferences.txt
     cat >preferences.txt
 ### 10. Add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, country you would like to visit) to the `preferences.txt` file in TXT format
