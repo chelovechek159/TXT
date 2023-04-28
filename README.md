@@ -38,14 +38,13 @@ or
 ### 10. Add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, country you would like to visit) to the `preferences.txt` file in TXT format
     vim preferences.txt
     add information in TXT format
-result
->https://github.com/chelovechek159/TXT/blob/main/preferences.txt
+
+>[result](https://github.com/chelovechek159/TXT/blob/main/preferences.txt)
 
 ### 11. Create a file `skills.txt` add information about the skills that will be studied in the course in TXT format
     cat > skills.txt
     add information in TXT format
-result
->https://github.com/chelovechek159/TXT/blob/main/skills.txt
+>[result](https://github.com/chelovechek159/TXT/blob/main/skills.txt)
 
 ### 12. Make commit in one line
     git commit -am "text"
@@ -63,7 +62,6 @@ result
     write bug report in TXT format
 ### 17. Make Commit changes (save) changes on the web interface
     click on [Commit changes]
-result
->https://github.com/chelovechek159/TXT/blob/main/bug_report.txt
+>[result](https://github.com/chelovechek159/TXT/blob/main/bug_report.txt)
 ### 18. Синхронизировать внешний и локальный репозиторий XML
     git pull
